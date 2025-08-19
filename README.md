@@ -18,6 +18,11 @@ Saf HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit ama işlevsel bi
 -   **CSS3**: Oyunun görsel stilini ve düzenini sağlamak için.
 -   **JavaScript (ES6+)**: Oyunun tüm mantığını, etkileşimini ve dinamik güncellemelerini yönetmek için.
 
+## 🖼️ Project Screenshots
+
+### Main Interface
+![SwiftNote Studio Interface](/images/arayüz.png)
+
 ## 🕹️ Nasıl Oynanır?
 
 1.  `chess-standalone.html` dosyasını favori web tarayıcınızda açın.
@@ -57,5 +62,6 @@ Katkılarınız her zaman bekleriz! Herhangi bir hata bulursanız veya yeni bir 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
 
 ---
+
 
 Made with ❤️ by [Can-Ozan]
